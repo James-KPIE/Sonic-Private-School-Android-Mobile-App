@@ -6,7 +6,7 @@
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="android-minSdkVersion" value="14"/>
   <!-- For iOS and Android Only -->
-  <preference name="ErrorUrl" value="You need to connect to the INTERNET to view the content on this page. Connect Now, Press the back button and navigate to this page again"/>
+  <preference name="ErrorUrl" value="offline.html"/>
   <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1"/>
   <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1"/>
   <plugin name="cordova-plugin-media-capture" source="npm" spec="~1.2.0"/>
