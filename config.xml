@@ -1,5 +1,5 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.KpieTechnologies.SonicPrivateSchool" version="1.0.0">
-  <name>Sonic Private School</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.KpieTechnologies.SonicPrivateSchool" versionCode = "10000" version="2.0.2">
+  <name>Sonic</name>
   <description>This is an eLearning mobile app that allow our pupils to finish their homeworks from a mobile phone. The purpose is to provide solution to the complexity and unavailability issues that our pupils face with eLearning through a Laptop of Desktop Computer.</description>
   <author href="http://kpie.com" email="fxroyalmoneysolution@gmail.com">KPIE Technologies Team</author>
   <content src="index.html"/>
